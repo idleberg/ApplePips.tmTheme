@@ -14,9 +14,9 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Apple Pips Light</string>
+	<string>Apple Pips day</string>
 	<key>semanticClass</key>
-	<string>base16.applepips.light</string>
+	<string>applepips.day</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -110,7 +110,7 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword, keyword.control</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -143,22 +143,11 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>support.class, entity.name.class, entity.name.type.class</string>
+			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Classes</string>
-			<key>scope</key>
-			<string>meta.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#5a6161</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -213,7 +202,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,7 +213,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -235,7 +224,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +235,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -268,7 +257,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -301,7 +290,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -325,7 +314,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -338,7 +327,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -384,7 +373,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -406,7 +395,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efb554</string>
+				<string>#e16712</string>
 			</dict>
 		</dict>
 		<dict>
@@ -514,6 +503,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>68ba08fc-da9d-496b-bff8-fe058cf1df6d</string>
+	<string>f2c78a42-9c39-4eef-aa9f-b835fbecacad</string>
 </dict>
 </plist>
