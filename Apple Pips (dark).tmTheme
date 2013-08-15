@@ -14,9 +14,9 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Apple Pips night</string>
+	<string>Apple Pips (dark)</string>
 	<key>semanticClass</key>
-	<string>applepips.night</string>
+	<string>applepips.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
