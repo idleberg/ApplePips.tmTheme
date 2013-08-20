@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/ApplePips.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.apple-pips.dark</string>
+	<string>theme.dark.apple-pips</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
