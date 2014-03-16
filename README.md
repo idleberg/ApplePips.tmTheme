@@ -1,8 +1,8 @@
 # Apple Pips for TextMate & Sublime Text
 
-A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips][1] record label.
+A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips](http://www.discogs.com/label/Apple+Pips) record label.
 
-![Animated Screenshot][2]
+![Animated Screenshot](https://raw.github.com/idleberg/ApplePips.tmTheme/master/preview/screenshot.gif)
 
 ## Installation
 
@@ -15,11 +15,11 @@ A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips][1] recor
 
 #### Package Control
 
-1. Make sure you already have [Package Control][3] installed
+1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
 3. Select *Apple Pips Color Scheme* and press `Enter`
 
-With [auto_upgrade][4] enabled, Package Control will keep all installed packages up-to-date!
+With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
 #### Manual Installation
 
@@ -34,12 +34,3 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ApplePips.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
-[1]: http://www.discogs.com/label/Apple+Pips
-[2]: https://raw.github.com/idleberg/ApplePips.tmTheme/master/preview/screenshot.gif
-[3]: http://wbond.net/sublime_packages/package_control/
-[4]: http://wbond.net/sublime_packages/package_control/settings/
-[5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/applepips.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
