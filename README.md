@@ -16,7 +16,7 @@ A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips](http://w
 #### Package Control
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
-2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
+2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Select *Apple Pips Color Scheme* and press `Enter`
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
@@ -25,7 +25,7 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 
 1. Download a `.tmTheme` file of choice
 2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Copy the `.tmTheme` file to `Packages\User`
+3. Copy the `.tmTheme` file to `Packages`
 
 ## License
 
