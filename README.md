@@ -1,4 +1,4 @@
-# Apple Pips for TextMate & Sublime Text
+# Apple Pips for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/ApplePips.tmTheme.png)](http://travis-ci.org/idleberg/ApplePips.tmTheme)
 
 A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips](http://www.discogs.com/label/Apple+Pips) record label.
 
